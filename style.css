@@ -1,0 +1,9 @@
+body
+{
+background: darkcyan;
+}
+
+#title, #guess, #confidence
+{
+    color: whitesmoke;
+}
